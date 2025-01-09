@@ -1,6 +1,6 @@
 # CoffeeShop
 # CTF walkthrough
-first I ran an nmap scan to identify open ports
+First I ran an nmap scan to identify open ports
 
 ![Screenshot_2025-01-05_15_13_51](https://github.com/user-attachments/assets/75303e74-5a52-4f09-a09f-18e9a10dd6b3)
 
@@ -102,4 +102,4 @@ Thanks to the -exec flag we got a root shell
 
 ![Screenshot_2025-01-05_15_32_26](https://github.com/user-attachments/assets/d8713caf-2df3-45f0-8686-802ffe707248)
 
-Thanks for reading and playing the CTF.
+Thanks for reading this walkthrough and playing the CTF.
