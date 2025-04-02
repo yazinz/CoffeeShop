@@ -46,7 +46,7 @@ Lets turn it into a bash shell
 
 Better, Now lets see what we can do to escalate our privilege
 
-I found the users buster and c_developper but I don't have access to theire home directories
+I found the users buster and c_developper but I don't have access to their home directories
 
 ![Screenshot_2025-01-05_15_21_35](https://github.com/user-attachments/assets/4b5e7349-6904-4743-8c83-7a2a5f9d723c)
 
